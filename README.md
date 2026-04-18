@@ -86,5 +86,5 @@ I'm a Software Engineer specializing in **Hybrid Mobile App Development**, build
 ## 📫 Let’s connect:
 
 [LinkedIn](https://www.linkedin.com/in/ayeshaazher/)
-[UpWork]([https://www.linkedin.com/in/ayeshaazher/](https://www.upwork.com/freelancers/~0120d8ea5380858107?mp_source=share))
+[UpWork](https://www.upwork.com/freelancers/~0120d8ea5380858107?mp_source=share)
 
