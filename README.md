@@ -4,7 +4,7 @@
 
 ### 🚀 Hybrid Mobile App Developer · Python APIs · AI/ML Integration
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=0A66C2\&center=true\&vCenter=true\&width=700\&lines=Flutter+%7C+React+Native+%7C+Ionic;Python+APIs+%7C+FastAPI+%7C+Flask;AI%2FML+Powered+Mobile+Apps;SaaS+%26+Marketplace+App+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Flutter+%7C+React+Native+%7C+Ionic;Python+APIs+%7C+FastAPI+%7C+Flask;AI%2FML+Powered+Mobile+Apps;SaaS+%26+Marketplace+App+Development)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ayeshaazher&label=Profile+Views&color=0A66C2&style=flat" />
 
@@ -16,11 +16,11 @@
 
 I build **end-to-end mobile applications** — from elegant UI/UX to scalable backend systems and intelligent features.
 
-* 📱 Cross-platform apps (**Android & iOS**)
-* ⚙️ REST APIs, Firebase & backend systems
-* 🐍 Python APIs (**FastAPI / Flask**)
-* 🤖 AI/ML-powered app features
-* 🚀 SaaS, marketplace & production-ready apps
+- 📱 Cross-platform apps (**Android & iOS**)
+- ⚙️ REST APIs, Firebase, Supabase & backend systems
+- 🐍 Python APIs (**FastAPI / Flask**)
+- 🤖 AI/ML-powered app features
+- 🚀 SaaS, marketplace & production-ready apps
 
 ---
 
@@ -30,24 +30,29 @@ I build **end-to-end mobile applications** — from elegant UI/UX to scalable ba
 
 ### 📱 Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7C3AED?style=for-the-badge\&logo=flutter\&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge\&logo=ionic\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7C3AED?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### ⚙️ Backend & APIs
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Database & BaaS
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 📊 Data & AI/ML
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -58,6 +63,7 @@ I build **end-to-end mobile applications** — from elegant UI/UX to scalable ba
 ### 📱 Task Manager
 
 A scalable task and workflow management app for teams and businesses.
+
 **Tech:** Flutter, Firebase
 
 ---
@@ -93,7 +99,7 @@ A social networking platform for the Black & African diaspora community.
 
 ---
 
-### 🏙️ Rebary 
+### 🏙️ Rebary
 
 A connected app suite for local discovery and guidance in Kurdistan.
 
@@ -135,10 +141,10 @@ An AI-powered app that scans artwork and provides detailed insights.
 
 ## 🎯 Goals
 
-* Launch production-ready mobile apps
-* Build AI-powered mobile experiences
-* Scale SaaS products
-* Improve CI/CD & deployment workflows
+- Launch production-ready mobile apps
+- Build AI-powered mobile experiences
+- Scale SaaS products
+- Improve CI/CD & deployment workflows
 
 ---
 
@@ -146,10 +152,10 @@ An AI-powered app that scans artwork and provides detailed insights.
 
 Open to:
 
-* Hybrid mobile apps
-* AI/ML-powered solutions
-* Python backend systems
-* SaaS & startup products
+- Hybrid mobile apps
+- AI/ML-powered solutions
+- Python backend systems
+- SaaS & startup products
 
 ---
 
@@ -157,9 +163,9 @@ Open to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Azher-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ayeshaazher/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Azher-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayeshaazher/)
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~0120d8ea5380858107?mp_source=share)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0120d8ea5380858107?mp_source=share)
 
 </div>
 
