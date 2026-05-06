@@ -166,8 +166,7 @@ Open to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Azher-0A66C2?style=for-the-badge&logo=linkedin)](https:www.zarconnexus.com/)
-
+[![Website](https://img.shields.io/badge/Website-Hire%20Me-9867C5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.zarconnexus.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Azher-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayeshaazher/)
 
