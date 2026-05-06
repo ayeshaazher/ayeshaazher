@@ -166,6 +166,9 @@ Open to:
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Azher-0A66C2?style=for-the-badge&logo=linkedin)](https:www.zarconnexus.com/)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Azher-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayeshaazher/)
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0120d8ea5380858107?mp_source=share)
