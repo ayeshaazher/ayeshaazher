@@ -128,15 +128,15 @@ An AI-powered app that scans artwork and provides detailed insights.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayeshaazher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayeshaazher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaazher&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaazher&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayeshaazher&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ayeshaazher&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
